@@ -2,7 +2,7 @@
 
 This software is only tested on Windows 10 and may or may not work for other operating systems.
 
-###Disclaimer:
+### Disclaimer:
 This program was tested with a new empire that started with ironman and even after
 console edits and ironman reapplied. Achievements was still possible.
 I am however not responsible for any damages to your save game.
